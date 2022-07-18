@@ -1,0 +1,24 @@
+"	22V Supply Plug"; dây cắm; đầu kết nối; cầu chì
+"	Filter";;; TDK
+"	Main MCB"; 1pcs; EZ9D34610; Schneider
+"	Indicator Power (Red)"; 2pcs;;
+"	Indicator Power (Yellow)"; 1pcs;;
+"	Indicator Power (Blue)"; 1pcs;;
+"	Power Supply 24vdc"; 1pcs; HDR-100-24; Mean Well
+"	Fuse 4A";;; Schurter
+"	Fuse 3A";;; Schurter 
+"	PLC"; 1pcs; FX3U-32MT/ES-A; Mitsubishi
+"	Emergency Switch"; 1pcs;; Schneider
+"	Feeder Sensor"; 1pcs;; Omron
+"	Relay"; 1pcs; MY2N_DC24(S); Omron
+"	Relay case"; 1pcs; PYF08A-E; Omron
+"	HMI"; 1pcs; GS2107-WTBD; Mitsubishi
+"	MCCB"; 1pcs; EZC100F3015; Schneider
+"	Motor Contactor"; 1pcs; LC1K1610B7; Schneider
+"	Servo Drive"; 1pcs; MR-JE-70A; Mitsubishi
+"	Servo Motor"; 1pcs; HG-KN73J; Mitsubishi
+"	Terminal L-N";;;
+"	HMI-PLC RS422 Cable";;;
+"	PLC-Servo Cable";;;
+"	Encoder Cable";;;
+"	3P Supply Plug"; dây cắm; đầu kết nối;
